@@ -1,7 +1,4 @@
-body {
+body, h2, ul {
     padding: 30px;
 }
 
-ul {
-    padding: 30px;
-}
