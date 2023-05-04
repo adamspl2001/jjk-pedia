@@ -1,4 +1,12 @@
-body, h2, ul {
-    padding: 30px;
+body, h2, ul, p {
+    padding: 15px;
+}
+
+img {
+    padding:30px;
+}
+
+h1 {
+    text-size-adjust: 256px;
 }
 
