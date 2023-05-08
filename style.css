@@ -1,7 +1,7 @@
 
 .container {
     border: 15px solid black;
-    background-color: #BEBAB1;
+    background-color: #5D5B57;
 }
  
 img {
@@ -23,10 +23,16 @@ img {
 
 h1, h2{
     font-family: 'Pangolin', cursive;
+    color:  #FF7385;
 }
 
 p {
     font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.breadcrumb-item li {
+    color: white;
 }
 
 
